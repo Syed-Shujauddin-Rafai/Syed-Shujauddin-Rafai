@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Automated Interviewing System](https://github.com/adithya3403/chatgpt-alexa-s2)
 
-- 🤝 I’m looking for help with **GSoC 2023**
+- 🤝 I’m looking for help with *Deep Learning*
 
 - 📫 How to reach me **shujarafai79@gmail.com**
 
